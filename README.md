@@ -2,13 +2,6 @@
 
 High Quality **Dashboard / Admin / Analytics template** that works great on any smartphone, tablet or desktop. Available as **Open Source as MIT license.**
 
-- [**View Demo**](http://dashboards.webkom.co/react/airframe/)
-- [jQuery Version](http://dashboards.webkom.co/jquery/airframe) 
-- [**Next Version**](https://github.com/webkom-co/airframe-next) - Now is available
-- [Angular Version](http://dashboards.webkom.co/angular/airframe) - _Documentation in preparation_
-- [Vue Version](http://dashboards.webkom.co/vue/airframe) - _Documentation in preparation_
-- [MVC.Net Version](http://dashboards.webkom.co/net-mvc/airframe) - _Documentation in preparation_
-- *Sketch Files (Soon)*
 
 ![aiframe-2019-light-primary-ExchangeTrading2x-bfc026c1-0477-45c8-ba55-f6dd43141e4c](https://user-images.githubusercontent.com/2330394/63061353-20ea4600-bef5-11e9-84c8-000a6dceea4d.png)
 
@@ -28,15 +21,6 @@ This **Airframe** project is a typical Webpack based React app, [React Router](h
 - **Responsive Design** - fully adapted to your application, exactly well presented on the desktop, a tablet or smartphone.
 - **120+ Unique Pages** designed to make use of them directly in your application.
 - **2 Starters** so that you can immediately work with the components that are necessary for your application.
-
-# Author
-
-**Tomasz Owczarczyk:**
-
-- Github: [https://github.com/0wczar](https://github.com/0wczar)
-- Dribbble: [https://dribbble.com/tomaszo](https://dribbble.com/tomaszo)
-- Linkedin: [https://www.linkedin.com/in/tomaszowczarczyk/](https://www.linkedin.com/in/tomaszowczarczyk/)
-- Twitter: [https://twitter.com/towcza](https://twitter.com/towcza)
 
 # Installation
 
